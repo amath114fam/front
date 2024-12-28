@@ -1,0 +1,100 @@
+.navbar img{
+    height: 20vh;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+#ul{
+    display: flex;
+}
+#ul li{
+    list-style: none;
+    padding: 2vh;
+}
+#connexion{
+    background-color: #ee752c;
+    height: 15vh;
+}
+#connexion p{
+    margin-left: 60%;
+    font-size: 5vh;
+    color: white;
+}
+.corps{
+    height: 85vh;
+    background-color: #034f89;
+}
+.corps img{
+    margin-left: 60%;
+    height: 40vh;
+    margin-top: 5%;
+}
+#ule li img{
+    height: 5vh;
+}
+#ule{
+    display: flex;
+}
+#ule li{
+    list-style: none;
+}
+#form{
+    margin-top: -29%;
+    background-color: white;
+    width: 50%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    height: 110%;
+}
+#p1{
+    margin-left: 48%;
+    color: #034f89;
+}
+#p2{
+    margin-left: 46%;
+}
+#form .l1{
+    margin-left: 3%;
+}
+#form .in1{
+    margin-left: 3%;
+    height: 4vh;
+    width: 90%;
+}
+#form .l2{
+    margin-left: 3%;
+}
+#form .in2{
+    margin-left: 3%;
+    height: 4vh;
+    width: 90%;
+}
+#form .check{
+    margin-left: 3%;
+}
+#form .lien{
+    margin-left: 6%;
+    text-decoration: none;
+}
+#form .in3{
+    height: 5vh;
+
+    margin-left: 60%;
+    color: white;
+    background-color: #398dd7;
+    border: 5px;
+}
+#pc{
+    margin-left: 44%;
+}
+#ule{
+    position: relative;
+    margin-left: 35%;
+    
+}
+#pf{
+    margin-left: 27%;
+}
